@@ -5,7 +5,6 @@ import { SectionScreen } from '../components/section/SectionScreen';
 import { StudentScreen } from '../components/students/StudentScreen';
 
 
-
 import { Header } from '../components/ui/Header'
 import { Menu } from '../components/ui/Menu'
 import { NoMatch } from '../components/ui/NoMatch';
